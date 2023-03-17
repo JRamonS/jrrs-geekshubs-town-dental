@@ -1,0 +1,27 @@
+.loginSendDeac {
+
+    height: 2em;
+    width: 9em;
+
+    background-color: tomato;
+
+    border-radius: 0.2em;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginSendAct {
+
+    cursor: pointer;
+    background-color: red;
+    
+}
+
+.loginSendAct:hover {
+
+    transition: 1s;
+    background-color: darkred;
+}
